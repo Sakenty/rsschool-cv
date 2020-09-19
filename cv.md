@@ -1,6 +1,6 @@
 # Sagyndyk Abildin
 ---
-####Contact info:
+#### Contact info:
 * **Tel:** +77052940166
 * **Github:** @Sakenty
 * **Discord:** Sagyndyk (@Sakenty)
@@ -9,12 +9,12 @@
 
 ----
 
-####About me
+#### About me
 
 I am sociable, kind, honest. I appreciate these qualities in people.  I always express my point of view, while observing due subordination. I constantly read business literature, attend seminars and trainings. Married and have three children.
 
 -----------
-####Skills
+#### Skills
 * Html
 * CSS
 * Git 
@@ -22,7 +22,7 @@ I am sociable, kind, honest. I appreciate these qualities in people.  I always e
   * ES6
 
 -----
-####Code Example
+#### Code Example
 ```
 const encrypt = (str) => {
   let result = '';
@@ -35,11 +35,11 @@ const encrypt = (str) => {
 };
 ```
 -----
-####Experience
+#### Experience
 Not yet
 
 -----
-####Education, courses and etc.
+#### Education, courses and etc.
 * **Information Systems (bachelor)** | *Eurasian National University n.a. L. N. Gumilev*
 * **Information Systems (master)** | *Eurasian National University n.a. L. N. Gumilev*
 
@@ -50,7 +50,7 @@ Not yet
 * **JavaScript Development ** | *RS School*
 
 ------
-####Languages
+#### Languages
 * English
  * *A2*
 
