@@ -1,11 +1,11 @@
 # Sagyndyk Abildin
 ---
-####Contact info: 
-**Tel:** +77052940166
-**Github:** @Sakenty
-**Discord:** Sagyndyk (@Sakenty)
-**LinkedIn:** [My Profile](https://www.linkedin.com/in/s-abildin)
-**Email:** s.abildin@gmail.com
+####Contact info:
+* **Tel:** +77052940166
+* **Github:** @Sakenty
+* **Discord:** Sagyndyk (@Sakenty)
+* **LinkedIn:** [My Profile](https://www.linkedin.com/in/s-abildin)
+* **Email:** s.abildin@gmail.com
 
 ----
 
@@ -34,9 +34,11 @@ const encrypt = (str) => {
   return result;
 };
 ```
-****
+-----
 ####Experience
 Not yet
+
+-----
 ####Education, courses and etc.
 * **Information Systems (bachelor)** | *Eurasian National University n.a. L. N. Gumilev*
 * **Information Systems (master)** | *Eurasian National University n.a. L. N. Gumilev*
@@ -46,6 +48,7 @@ Not yet
 * **Strategic management** | *Metropolitan Business School*
 * **Financial management** | *Metropolitan Business School*
 * **JavaScript Development ** | *RS School*
+
 ------
 ####Languages
 * English
