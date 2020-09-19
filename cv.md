@@ -5,6 +5,7 @@
 **Github:** @Sakenty
 **Discord:** Sagyndyk (@Sakenty)
 **LinkedIn:** [My Profile](https://www.linkedin.com/in/s-abildin)
+**Email:** s.abildin@gmail.com
 
 ----
 
