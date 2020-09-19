@@ -47,12 +47,11 @@ Not yet
 * **Operations management** | *Metropolitan Business School*
 * **Strategic management** | *Metropolitan Business School*
 * **Financial management** | *Metropolitan Business School*
-* **JavaScript Development ** | *RS School*
+* **JavaScript Development** | *RS School*
 
 ------
 #### Languages
-* English
- * *A2*
+* English - *A2*
 
 *I lived in the USA for four months in 2006*
  
